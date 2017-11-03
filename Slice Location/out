@@ -1,0 +1,884 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2016 The MathWorks, Inc.
+                   R2016a (9.0.0.341360) 64-bit (glnxa64)
+                             February 11, 2016
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	Academic License
+
+
+ans =
+
+NWKR finished RealizeNum[1] BandWidth Idx[1] Time [6.207620e-01]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[1] BandWidth Idx[1] Time [6.225923e+01]
+
+
+ans =
+
+NWKR finished RealizeNum[1] BandWidth Idx[2] Time [6.237677e+01]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[1] BandWidth Idx[2] Time [1.230887e+02]
+
+
+ans =
+
+NWKR finished RealizeNum[1] BandWidth Idx[3] Time [1.232027e+02]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[1] BandWidth Idx[3] Time [1.850437e+02]
+
+
+ans =
+
+NWKR finished RealizeNum[1] BandWidth Idx[4] Time [1.851529e+02]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[1] BandWidth Idx[4] Time [2.451412e+02]
+
+
+ans =
+
+NWKR finished RealizeNum[1] BandWidth Idx[5] Time [2.452250e+02]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[1] BandWidth Idx[5] Time [3.041105e+02]
+
+
+ans =
+
+NWKR finished RealizeNum[1] BandWidth Idx[6] Time [3.041943e+02]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[1] BandWidth Idx[6] Time [3.683185e+02]
+
+
+ans =
+
+NWKR finished RealizeNum[1] BandWidth Idx[7] Time [3.684328e+02]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[1] BandWidth Idx[7] Time [4.293968e+02]
+
+
+ans =
+
+NWKR finished RealizeNum[1] BandWidth Idx[8] Time [4.295118e+02]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[1] BandWidth Idx[8] Time [4.891867e+02]
+
+
+ans =
+
+NWKR finished RealizeNum[1] BandWidth Idx[9] Time [4.893420e+02]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[1] BandWidth Idx[9] Time [5.506826e+02]
+
+
+ans =
+
+NWKR finished RealizeNum[1] BandWidth Idx[10] Time [5.508704e+02]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[1] BandWidth Idx[10] Time [6.127696e+02]
+
+
+ans =
+
+NWKR finished RealizeNum[1] BandWidth Idx[11] Time [6.129570e+02]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[1] BandWidth Idx[11] Time [6.750185e+02]
+
+
+ans =
+
+NWKR finished RealizeNum[1] BandWidth Idx[12] Time [6.751780e+02]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[1] BandWidth Idx[12] Time [7.350506e+02]
+
+
+ans =
+
+NWKR finished RealizeNum[1] BandWidth Idx[13] Time [7.352331e+02]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[1] BandWidth Idx[13] Time [8.031778e+02]
+
+
+ans =
+
+NWKR finished RealizeNum[1] BandWidth Idx[14] Time [8.033342e+02]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[1] BandWidth Idx[14] Time [8.794456e+02]
+
+
+minBandwidthNWKR =
+
+    0.0097
+
+
+minBandwidthNWKRMetric =
+
+    0.0031
+
+
+minBandwidthIdxNWKR =
+
+    10
+
+
+minBandwidthIdxNWKRMetric =
+
+    12
+
+
+ans =
+
+NWKR TEST finished RealizeNum[1] Time [8.795895e+02]
+
+
+ans =
+
+NWKR TEST with Metric finished RealizeNum[1] Time [9.221788e+02]
+
+
+ans =
+
+NWKR finished RealizeNum[2] BandWidth Idx[1] Time [9.222751e+02]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[2] BandWidth Idx[1] Time [9.862473e+02]
+
+
+ans =
+
+NWKR finished RealizeNum[2] BandWidth Idx[2] Time [9.863309e+02]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[2] BandWidth Idx[2] Time [1.055814e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[2] BandWidth Idx[3] Time [1.055927e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[2] BandWidth Idx[3] Time [1.123689e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[2] BandWidth Idx[4] Time [1.123773e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[2] BandWidth Idx[4] Time [1.188326e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[2] BandWidth Idx[5] Time [1.188415e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[2] BandWidth Idx[5] Time [1.251020e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[2] BandWidth Idx[6] Time [1.251133e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[2] BandWidth Idx[6] Time [1.321621e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[2] BandWidth Idx[7] Time [1.321705e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[2] BandWidth Idx[7] Time [1.386764e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[2] BandWidth Idx[8] Time [1.386878e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[2] BandWidth Idx[8] Time [1.449817e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[2] BandWidth Idx[9] Time [1.449938e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[2] BandWidth Idx[9] Time [1.517205e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[2] BandWidth Idx[10] Time [1.517392e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[2] BandWidth Idx[10] Time [1.592570e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[2] BandWidth Idx[11] Time [1.592730e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[2] BandWidth Idx[11] Time [1.659112e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[2] BandWidth Idx[12] Time [1.659301e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[2] BandWidth Idx[12] Time [1.729296e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[2] BandWidth Idx[13] Time [1.729478e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[2] BandWidth Idx[13] Time [1.801347e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[2] BandWidth Idx[14] Time [1.801471e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[2] BandWidth Idx[14] Time [1.867625e+03]
+
+
+minBandwidthNWKR =
+
+    0.0031
+
+
+minBandwidthNWKRMetric =
+
+    0.0040
+
+
+minBandwidthIdxNWKR =
+
+    10
+
+
+minBandwidthIdxNWKRMetric =
+
+    12
+
+
+ans =
+
+NWKR TEST finished RealizeNum[2] Time [1.867765e+03]
+
+
+ans =
+
+NWKR TEST with Metric finished RealizeNum[2] Time [1.902115e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[3] BandWidth Idx[1] Time [1.902207e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[3] BandWidth Idx[1] Time [1.965510e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[3] BandWidth Idx[2] Time [1.965623e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[3] BandWidth Idx[2] Time [2.025930e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[3] BandWidth Idx[3] Time [2.026018e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[3] BandWidth Idx[3] Time [2.086840e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[3] BandWidth Idx[4] Time [2.086922e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[3] BandWidth Idx[4] Time [2.158580e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[3] BandWidth Idx[5] Time [2.158695e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[3] BandWidth Idx[5] Time [2.233313e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[3] BandWidth Idx[6] Time [2.233426e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[3] BandWidth Idx[6] Time [2.307959e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[3] BandWidth Idx[7] Time [2.308043e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[3] BandWidth Idx[7] Time [2.370096e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[3] BandWidth Idx[8] Time [2.370184e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[3] BandWidth Idx[8] Time [2.429936e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[3] BandWidth Idx[9] Time [2.430090e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[3] BandWidth Idx[9] Time [2.497908e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[3] BandWidth Idx[10] Time [2.498068e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[3] BandWidth Idx[10] Time [2.560343e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[3] BandWidth Idx[11] Time [2.560528e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[3] BandWidth Idx[11] Time [2.635322e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[3] BandWidth Idx[12] Time [2.635509e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[3] BandWidth Idx[12] Time [2.710429e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[3] BandWidth Idx[13] Time [2.710610e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[3] BandWidth Idx[13] Time [2.780850e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[3] BandWidth Idx[14] Time [2.781005e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[3] BandWidth Idx[14] Time [2.836562e+03]
+
+
+minBandwidthNWKR =
+
+    0.0159
+
+
+minBandwidthNWKRMetric =
+
+    0.0063
+
+
+minBandwidthIdxNWKR =
+
+     7
+
+
+minBandwidthIdxNWKRMetric =
+
+    12
+
+
+ans =
+
+NWKR TEST finished RealizeNum[3] Time [2.836653e+03]
+
+
+ans =
+
+NWKR TEST with Metric finished RealizeNum[3] Time [2.875559e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[4] BandWidth Idx[1] Time [2.875681e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[4] BandWidth Idx[1] Time [2.940207e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[4] BandWidth Idx[2] Time [2.940330e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[4] BandWidth Idx[2] Time [3.003986e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[4] BandWidth Idx[3] Time [3.004070e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[4] BandWidth Idx[3] Time [3.058143e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[4] BandWidth Idx[4] Time [3.058232e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[4] BandWidth Idx[4] Time [3.121255e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[4] BandWidth Idx[5] Time [3.121339e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[4] BandWidth Idx[5] Time [3.174601e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[4] BandWidth Idx[6] Time [3.174685e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[4] BandWidth Idx[6] Time [3.230044e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[4] BandWidth Idx[7] Time [3.230128e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[4] BandWidth Idx[7] Time [3.291856e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[4] BandWidth Idx[8] Time [3.291970e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[4] BandWidth Idx[8] Time [3.357309e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[4] BandWidth Idx[9] Time [3.357429e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[4] BandWidth Idx[9] Time [3.414464e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[4] BandWidth Idx[10] Time [3.414628e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[4] BandWidth Idx[10] Time [3.471674e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[4] BandWidth Idx[11] Time [3.471835e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[4] BandWidth Idx[11] Time [3.529567e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[4] BandWidth Idx[12] Time [3.529727e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[4] BandWidth Idx[12] Time [3.601058e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[4] BandWidth Idx[13] Time [3.601237e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[4] BandWidth Idx[13] Time [3.676135e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[4] BandWidth Idx[14] Time [3.676291e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[4] BandWidth Idx[14] Time [3.747328e+03]
+
+
+minBandwidthNWKR =
+
+    0.0073
+
+
+minBandwidthNWKRMetric =
+
+    0.0048
+
+
+minBandwidthIdxNWKR =
+
+    10
+
+
+minBandwidthIdxNWKRMetric =
+
+    12
+
+
+ans =
+
+NWKR TEST finished RealizeNum[4] Time [3.747466e+03]
+
+
+ans =
+
+NWKR TEST with Metric finished RealizeNum[4] Time [3.789855e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[5] BandWidth Idx[1] Time [3.789972e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[5] BandWidth Idx[1] Time [3.845985e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[5] BandWidth Idx[2] Time [3.846073e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[5] BandWidth Idx[2] Time [3.904223e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[5] BandWidth Idx[3] Time [3.904306e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[5] BandWidth Idx[3] Time [3.964847e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[5] BandWidth Idx[4] Time [3.964930e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[5] BandWidth Idx[4] Time [4.027653e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[5] BandWidth Idx[5] Time [4.027765e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[5] BandWidth Idx[5] Time [4.086392e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[5] BandWidth Idx[6] Time [4.086504e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[5] BandWidth Idx[6] Time [4.145447e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[5] BandWidth Idx[7] Time [4.145556e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[5] BandWidth Idx[7] Time [4.218883e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[5] BandWidth Idx[8] Time [4.218967e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[5] BandWidth Idx[8] Time [4.273661e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[5] BandWidth Idx[9] Time [4.273815e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[5] BandWidth Idx[9] Time [4.333388e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[5] BandWidth Idx[10] Time [4.333575e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[5] BandWidth Idx[10] Time [4.386763e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[5] BandWidth Idx[11] Time [4.386922e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[5] BandWidth Idx[11] Time [4.447578e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[5] BandWidth Idx[12] Time [4.447741e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[5] BandWidth Idx[12] Time [4.509950e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[5] BandWidth Idx[13] Time [4.510131e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[5] BandWidth Idx[13] Time [4.569668e+03]
+
+
+ans =
+
+NWKR finished RealizeNum[5] BandWidth Idx[14] Time [4.569800e+03]
+
+
+ans =
+
+NWKR with Metric finished RealizeNum[5] BandWidth Idx[14] Time [4.623120e+03]
+
+
+minBandwidthNWKR =
+
+    0.0149
+
+
+minBandwidthNWKRMetric =
+
+    0.0118
+
+
+minBandwidthIdxNWKR =
+
+     8
+
+
+minBandwidthIdxNWKRMetric =
+
+    12
+
+
+ans =
+
+NWKR TEST finished RealizeNum[5] Time [4.623193e+03]
+
+
+ans =
+
+NWKR TEST with Metric finished RealizeNum[5] Time [4.661440e+03]
+
+
+minBandWidthIdxesNWKR =
+
+    10    10     7    10     8
+
+
+minBandWidthIdxesNWKRMetric =
+
+    12    12    12    12    12
+
+
+NMSENWKR =
+
+    0.0066
+
+
+NMSENWKRMetric =
+
+    0.0022
+
+Elapsed time is 4661.453293 seconds.
